@@ -1,5 +1,5 @@
 <?php
-$title = "Choisis un pays, je te donnerai sa capitale";
+$title = "Choisis un pays et je te donnerai sa capitale";
 $countries = [
     'afrique du sud' => [
         'capital-name' => 'johannesbourg',
